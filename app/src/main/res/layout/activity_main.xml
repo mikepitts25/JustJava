@@ -83,7 +83,7 @@
             android:text="@string/plus_sign" />
 
     </LinearLayout>
-    <!-- Order Button. -->
+    <!-- Order Button.. -->
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
