@@ -11,7 +11,7 @@
     <string name="name">Name</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
-    <string name="toppings">TOPPINGS</string>
+    <string name="toppings">Toppings</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
     <string name="whipped_cream">Whipped cream</string>
