@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
         EditText userName = (EditText) findViewById(R.id.name);
         String name = userName.getText().toString();
 
-        // Display the order summary on the screen.
+        // Display the order summary on the screen..
         String message = createOrderSummary(priceString, hasWhippedCream, hasChocolate, name);
 
         Intent intent = new Intent(Intent.ACTION_SENDTO);

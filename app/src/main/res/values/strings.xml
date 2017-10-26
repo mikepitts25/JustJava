@@ -4,7 +4,7 @@
     <string name="quantity_1">1</string>
     <string name="plus_sign">+</string>
 
-    <!-- Title for the application. [CHAR LIMIT=12].. -->
+    <!-- Title for the application. [CHAR LIMIT=12]... -->
     <string name="app_name">Just Java</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
